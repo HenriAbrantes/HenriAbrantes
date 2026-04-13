@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome] 👋
 
-<!--
-**HenriAbrantes/HenriAbrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou um entusiasta de tecnologia em transição de carreira, migrando da área da saúde para a liberdade e inovação da **Computação**. 
 
-Here are some ideas to get you started:
+Atualmente, dedico meus dias a dominar o ecossistema de desenvolvimento, com foco especial em **Python** e **Inteligência Artificial**, buscando automatizar processos e criar soluções inteligentes que resolvam problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando Desenvolvimento de Software na **Alura**.
+- 🤖 Interessado por **Agentes de IA** e automação de tarefas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[HenriAbrantes]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[HenriAbrantes]&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+www.linkedin.com/in/henri-abrantes-479b81394
+Henriabrantesfigueiredo@gmail.com
