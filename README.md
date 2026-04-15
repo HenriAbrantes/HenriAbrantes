@@ -21,14 +21,6 @@ Atualmente, dedico meus dias a dominar o ecossistema de desenvolvimento, com foc
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[HenriAbrantes]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[HenriAbrantes]&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 www.linkedin.com/in/henri-abrantes-479b81394
 Henriabrantesfigueiredo@gmail.com
